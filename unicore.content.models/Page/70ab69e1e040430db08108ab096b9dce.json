@@ -3,15 +3,15 @@
   "description": "Mtoto wangu na mimi tu", 
   "language": "swa_KE", 
   "title": "MAMA wa Kawaida: Kifukofuko vuguvugu cha kuzalia", 
-  "primary_category": "2ef8679ed92448058510489201a05d30", 
-  "created_at": "2014-11-10T19:36:55.441705+00:00", 
+  "primary_category": null, 
+  "created_at": "2014-11-10T19:36:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:37:31.482337+00:00", 
+  "modified_at": "2015-12-11T12:44:31.807692+00:00", 
   "_version": {
     "package_version": "0.2.6", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": null, 
   "position": 16, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "mama-wa-kawaida-kifukofuko-vuguvugu-cha-kuzalia", 
   "uuid": "70ab69e1e040430db08108ab096b9dce"
 }
